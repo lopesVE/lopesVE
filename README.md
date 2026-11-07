@@ -1,70 +1,84 @@
-<h1 align="center">Olá, eu sou o Luis Fernando Lopes 👋</h1>
+<p align="center">
+  <img src="./assets/banner.png" alt="Guitarra ligada num terminal" width="100%">
+</p>
+
+<h1 align="center">Fala 👋, eu sou o Lopes</h1>
+
+<h3 align="center">Desenvolvedor Back-end em formação</h3>
 
 <p align="center">
-  Estudante de Análise e Desenvolvimento de Sistemas no IFRS – Campus Erechim<br>
-  Construindo minha carreira em <b>Back-end</b> e <b>DevOps</b>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=C9D1D9&center=true&vCenter=true&width=700&height=60&lines=%3E+Java+no+caf%C3%A9+da+manh%C3%A3;%3E+Se+compilou%2C+fica;%3E+Back-end%2C+DevOps+e+distor%C3%A7%C3%A3o;%3E+git+push+e+seja+o+que+Deus+quiser" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Erechim-RS-1f6feb?style=flat-square" alt="Erechim, RS">
-  <img src="https://img.shields.io/badge/foco-Back--end%20%26%20DevOps-238636?style=flat-square" alt="Foco: Back-end e DevOps">
+Construindo sistemas que resolvem problema de verdade, um commit de cada vez.
 </p>
 
----
+<h2 align="center">🚀 Sobre mim</h2>
 
-### 🧑‍💻 Sobre mim
+<img align="right" src="./assets/amp.png" width="220" alt="Amplificador em pixel art"/>
 
-- 🎓 Cursando ADS no IFRS, com formação técnica em Contabilidade e qualificação em manutenção industrial pelo SENAI
-- ☕ Estudando Java a fundo, com Spring Boot, Docker e Linux como próximos passos
-- 🚗 Desenvolvo sistemas pro dia a dia do mercado de veículos, área em que também atuo
-- 🎸 Nas horas vagas: guitarra (e às vezes programo meus próprios amplificadores virtuais)
+Sou o **Luis Fernando Lopes**, estudante de Análise e Desenvolvimento de Sistemas no IFRS – Campus Erechim, com o foco em **back-end** e **DevOps**.
 
----
+Antes do código vieram a contabilidade, a manutenção industrial pelo SENAI e a edição de vídeo. Hoje junto tudo isso desenvolvendo sistemas pro dia a dia do mercado de veículos, área em que também atuo.
 
-### 🛠️ Tecnologias
+No momento estou me aprofundando em **Java, Spring Boot, Docker e Linux**, e montando projetos de portfólio pelo caminho.
 
-**Uso no dia a dia**
+Fora do teclado, toco guitarra. Foi daí que nasceu o **ToneForge**, meu simulador de amplificador.
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+<br clear="right"/>
 
-**Estudando agora**
-
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-
----
-
-### 🚀 Projetos em destaque
-
-| Projeto | Descrição | Stack |
-|---|---|---|
-| [ToneForge](https://github.com/lopesVE/ToneForge) | Simulador de amplificador de guitarra para Windows, inspirado no AmpliTube 5 | C++ |
-| [easy-auto-ad](https://github.com/lopesVE/easy-auto-ad) | Ferramenta web para o mercado de veículos | TypeScript · Supabase |
-| [calculadora-java](https://github.com/lopesVE/calculadora-java) | Calculadora em Java para praticar lógica e fundamentos da linguagem | Java |
-| [quizparaprogramadores](https://github.com/lopesVE/quizparaprogramadores) | Quiz de perguntas para programadores | HTML · CSS · JS |
-
----
-
-### 📊 Estatísticas
+<h2 align="center">🤝 Conecte-se</h2>
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=lopesVE&show_icons=true&theme=github_dark&hide_border=true&locale=pt-br" alt="Estatísticas do GitHub">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lopesVE&layout=compact&theme=github_dark&hide_border=true&locale=pt-br" alt="Linguagens mais usadas">
+  <a href="https://github.com/lopesVE">
+    <img src="https://skillicons.dev/icons?i=github" height="45" />
+  </a>
 </p>
 
----
+<h2 align="center">💻 Tech Stack</h2>
 
 <p align="center">
-  <i>Sempre aprendendo, um commit de cada vez.</i>
+  <img src="https://skillicons.dev/icons?i=java,spring,mysql,supabase,docker,linux,git,github&perline=8" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,cpp,idea,vscode,obsidian&perline=9" />
+</p>
+
+<h2 align="center">🛠️ Projetos em destaque</h2>
+
+<p align="center">
+  <a href="https://github.com/lopesVE/ToneForge"><b>ToneForge</b></a> · simulador de amplificador de guitarra em C++<br>
+  <a href="https://github.com/lopesVE/easy-auto-ad"><b>easy-auto-ad</b></a> · ferramenta web para o mercado de veículos<br>
+  <a href="https://github.com/lopesVE/calculadora-java"><b>calculadora-java</b></a> · lógica e fundamentos em Java<br>
+  <a href="https://github.com/lopesVE/quizparaprogramadores"><b>quizparaprogramadores</b></a> · quiz web para devs
+</p>
+
+<h2 align="center">📊 GitHub Stats</h2>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=lopesVE&theme=city_lights&hide_border=false&border_radius=5&locale=pt_BR" height="150"/>
+
+</div>
+
+<h2 align="center">📈 Gráfico de Atividade</h2>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lopesVE&bg_color=1F242C&color=E6EDF3&line=3B82F6&point=58A6FF&area=true&hide_border=true&radius=16" alt="Gráfico de atividade"/>
+</p>
+
+<h2 align="center">⌘ Commits</h2>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lopesVE/lopesVE/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lopesVE/lopesVE/output/pacman-contribution-graph.svg">
+  <img alt="Pac-Man comendo o gráfico de contribuições" src="https://raw.githubusercontent.com/lopesVE/lopesVE/output/pacman-contribution-graph-dark.svg">
+</picture>
+
+<h2 align="center">⌘ Filosofia</h2>
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Frase do dia"/>
 </p>
