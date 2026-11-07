@@ -63,12 +63,6 @@ Fora do teclado, toco guitarra. Foi daí que nasceu o **ToneForge**, meu simulad
 
 </div>
 
-<h2 align="center">📈 Gráfico de Atividade</h2>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lopesVE&bg_color=1F242C&color=E6EDF3&line=3B82F6&point=58A6FF&area=true&hide_border=true&radius=16" alt="Gráfico de atividade"/>
-</p>
-
 <h2 align="center">⌘ Commits</h2>
 
 <picture>
