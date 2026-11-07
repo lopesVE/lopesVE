@@ -20,11 +20,11 @@ Construindo sistemas que resolvem problema de verdade, um commit de cada vez.
 
 Sou o **Luis Fernando Lopes**, estudante de Análise e Desenvolvimento de Sistemas no IFRS – Campus Erechim, com o foco em **back-end** e **DevOps**.
 
-Antes do código vieram a contabilidade, a manutenção industrial pelo SENAI e a edição de vídeo. Hoje junto tudo isso desenvolvendo sistemas pro dia a dia do mercado de veículos, área em que também atuo.
+Antes do código vieram a contabilidade, a manutenção industrial pelo SENAI e a edição de vídeo.
 
 No momento estou me aprofundando em **Java, Spring Boot, Docker e Linux**, e montando projetos de portfólio pelo caminho.
 
-Fora do teclado, toco guitarra. Foi daí que nasceu o **ToneForge**, meu simulador de amplificador.
+Fora do teclado, toco guitarra.
 
 <br clear="right"/>
 
@@ -44,15 +44,6 @@ Fora do teclado, toco guitarra. Foi daí que nasceu o **ToneForge**, meu simulad
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,cpp,idea,vscode,obsidian&perline=9" />
-</p>
-
-<h2 align="center">🛠️ Projetos em destaque</h2>
-
-<p align="center">
-  <a href="https://github.com/lopesVE/ToneForge"><b>ToneForge</b></a> · simulador de amplificador de guitarra em C++<br>
-  <a href="https://github.com/lopesVE/easy-auto-ad"><b>easy-auto-ad</b></a> · ferramenta web para o mercado de veículos<br>
-  <a href="https://github.com/lopesVE/calculadora-java"><b>calculadora-java</b></a> · lógica e fundamentos em Java<br>
-  <a href="https://github.com/lopesVE/quizparaprogramadores"><b>quizparaprogramadores</b></a> · quiz web para devs
 </p>
 
 <h2 align="center">📊 GitHub Stats</h2>
