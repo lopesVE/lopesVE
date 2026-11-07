@@ -2,7 +2,7 @@
   <img src="./assets/banner.png" alt="Guitarra ligada num terminal" width="100%">
 </p>
 
-<h1 align="center">Fala 👋, eu sou o Lopes</h1>
+<h1 align="center">Hi! I'm Lopes</h1>
 
 <h3 align="center">Desenvolvedor Back-end em formação</h3>
 
@@ -22,7 +22,7 @@ Sou o **Luis Fernando Lopes**, estudante de Análise e Desenvolvimento de Sistem
 
 Antes do código vieram a contabilidade, a manutenção industrial pelo SENAI e a edição de vídeo.
 
-No momento estou me aprofundando em **Java, Spring Boot, Docker e Linux**, e montando projetos de portfólio pelo caminho.
+No momento estou me aprofundando em **Java, Spring Boot e Docker**, e desenvolvendo projetos pelo caminho, tanto para aprendizado quanto para portfólio.
 
 Fora do teclado, toco guitarra.
 
