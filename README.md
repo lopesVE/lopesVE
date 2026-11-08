@@ -39,7 +39,7 @@ Fora do teclado, toco guitarra.
 <h2 align="center">💻 Tech Stack</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,mysql,supabase,docker,linux,git,github&perline=8" />
+  <img src="https://skillicons.dev/icons?i=java,spring,mysql,supabase,docker,git,github&perline=7" />
 </p>
 
 <p align="center">
